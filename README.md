@@ -1,4 +1,4 @@
-This is implementation of the classic Arkanoid game, written in Java as a project in
+This is my implementation of the classic Arkanoid game, written in Java as a project in
 the Object-Oriented course I took at the 1st year in Bar Ilan University. 
 
 The game has 3 levels which you can enjoy.
