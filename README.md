@@ -12,3 +12,5 @@ the same name, and using the biuoop jar and the tools provided.
 
 3. jar: generates the portable jar, which can later be moved and executed from any
 other computer that runs JVM.
+
+Link for example: https://github.com/yoavg/ioop2018/wiki/Level-Specification-examples
